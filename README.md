@@ -4,13 +4,13 @@ This project focuses on predicting future electricity prices using **Long Short-
 
 ---
 
-## 🔍 Problem Statement
+## Problem Statement
 Electricity price prediction is a **time series forecasting** problem. Prices change over time based on demand, weather, consumption patterns, and many other factors.  
 The main goal is to **capture these temporal patterns** and predict future prices accurately.
 
 ---
 
-## 🧠 Why LSTM?
+## Why LSTM?
 LSTM is a special type of Recurrent Neural Network (RNN) that can remember long-term patterns.  
 It is an ideal choice for this project because:
 
@@ -20,7 +20,7 @@ It is an ideal choice for this project because:
 
 ---
 
-## 🛠️ Project Workflow
+## Project Workflow
 ### **1. Data Cleaning**
 - Remove irrelevant or highly correlated features  
 - Handle missing values  
@@ -41,13 +41,13 @@ It is an ideal choice for this project because:
 
 ---
 
-## 📈 Results
+##  Results
 The model learns patterns from historical data and predicts future prices with good accuracy.  
 Visualizations are included to compare real vs predicted values.
 
 ---
 
-## 📦 Technologies Used
+##  Technologies Used
 - Python  
 - NumPy, Pandas  
 - Matplotlib  
@@ -56,19 +56,19 @@ Visualizations are included to compare real vs predicted values.
 
 ---
 
-## 📂 Files in This Project
+##  Files in This Project
 - `notebook.ipynb` — Main LSTM model, training & forecasting steps  
 - `data/` — Dataset used for training  
 - `README.md` — Project documentation  
 
 ---
 
-## 💡 Conclusion
+##  Conclusion
 LSTM-based models are powerful for time-series forecasting.  
 This project shows how deep learning can help understand and predict electricity pricing patterns effectively.
 
 ---
 
-## ✨ Author
+##  Author
 **Priyanka Kataria**
 
